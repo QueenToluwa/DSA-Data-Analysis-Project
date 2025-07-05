@@ -1,5 +1,5 @@
 # DSA-Data-Analysis-Project
-##Final project for DSA Data Analysis Skill Training- Case Study 1
+## Final project for DSA Data Analysis Skill Training- Case Study 1
 
 This case study entails analysing a dataset from RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon.
 About 15 questions have been highlighted to be answedred from the analysis of the dataset using Microsoft Excel.
@@ -26,7 +26,7 @@ Then, I proceeded to create a new sheet for the dashboard. I used charts where n
 
 ![image](https://github.com/user-attachments/assets/4b1d82c0-7e76-4e8e-ae1b-9b98afc7a73d)
 
-##BRIEF INSIGHTS
+## BRIEF INSIGHTS
 From the data, the top revenues to the company were from the Smart televions, smartphones and smart wristwaches. Therefore, to generate more revenue, emphasis should be placed on ensuring stead supply of these goods to enhance sales. 
 There is also little or no link between the discount percenatges and the rating given by customers. The discounts are good but the ratings were not based on the discounts gotten. They werre probabaly based on the quality and the satisfaction gotten from the products.
 Also , majority of the products got a good rating which is a good recommendation for the company's products.
