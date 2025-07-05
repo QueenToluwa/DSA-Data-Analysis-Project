@@ -30,3 +30,34 @@ Then, I proceeded to create a new sheet for the dashboard. I used charts where n
 From the data, the top revenues to the company were from the Smart televions, smartphones and smart wristwaches. Therefore, to generate more revenue, emphasis should be placed on ensuring stead supply of these goods to enhance sales. 
 There is also little or no link between the discount percenatges and the rating given by customers. The discounts are good but the ratings were not based on the discounts gotten. They werre probabaly based on the quality and the satisfaction gotten from the products.
 Also , majority of the products got a good rating which is a good recommendation for the company's products.
+ Rating	Average discount percentage
+2.8	82%
+2.9	72%
+5	68%
+3	68%
+3.1	62%
+3.3	61%
+4.7	57%
+3.7	56%
+3.5	56%
+2.3	55%
+3.9	52%
+3.4	51%
+3.6	50%
+3.8	50%
+3.2	50%
+4	49%
+4.8	49%
+4.2	49%
+2	48%
+4.6	48%
+2.6	46%
+4.1	46%
+4.3	45%
+4.5	41%
+4.4	40%
+|	16%
+Grand Total	48%
+![image](https://github.com/user-attachments/assets/ca1e911b-b5ee-4fd7-bb27-1e3752ac8f5f)
+
+
